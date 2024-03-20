@@ -4,7 +4,7 @@ body {
 }
 .btn-block {
   margin: auto;
-  width: 50%;
+  max-width: 500px;
   display: flex;
   justify-content: space-around;
   margin-bottom: 50px;
